@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Java, Spring Boot, and Microservices-based backend systems <br>👯 I’m looking to collaborate on scalable backend and microservices-driven applications <br>🤝 I’m looking for help with system design, distributed systems, and advanced microservices patterns <br>🌱 I’m currently expanding my skills in Kubernetes and Kafka <br>💬 Ask me about Java backend development <br>⚡ Fun fact: I can debug code for hours but forget to drink water<br> <br>  
+🔭 I’m currently working on Java, Spring Boot, and Microservices-based backend systems <br>👯 I’m looking to collaborate on scalable backend and microservices-driven applications <br>🤝 I’m looking for help with system design, distributed systems, and advanced microservices patterns <br>🌱 I’m currently expanding my skills in Kubernetes and Kafka <br>💬 Ask me about Java backend development <br>⚡ Fun fact: I like understanding service interactions and failure points before implementing fixes<br> <br>  
 
 
 ## 🌐 Socials:
